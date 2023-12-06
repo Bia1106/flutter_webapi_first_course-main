@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "email": "teste@teste.com",
+      "password": "$2a$10$ilNMSsqqn9DDSFpmcL74WunRQU8bpVETLBUD1vRDn.WiMy.ub6pUm",
+      "id": 1
+    }
+  ],
+  "learnhttp": {
+    "content": "Hello World!"
+  },
+  "journals": [
+    {
+      "id": "d9594650-9399-11ee-b461-57292b8abf52",
+      "content": "teste2",
+      "created_at": "2023-12-05 15:12:28.086",
+      "updated_at": "2023-12-05 15:12:28.086"
+    },
+    {
+      "id": "878ea2f0-939b-11ee-b461-57292b8abf52",
+      "content": "teste 3",
+      "created_at": "2023-12-01 15:12:29.630",
+      "updated_at": "2023-12-01 15:12:29.630"
+    },
+    {
+      "id": "a42ef9a0-939b-11ee-9680-d997514dae6e",
+      "content": "teste 5",
+      "created_at": "2023-12-02 15:25:01.214",
+      "updated_at": "2023-12-02 15:25:01.214"
+    },
+    {
+      "id": "d660fed0-93a2-11ee-9210-a1980811f46e",
+      "content": "",
+      "created_at": "2023-12-05 16:16:48.574",
+      "updated_at": "2023-12-05 16:16:48.574"
+    },
+    {
+      "id": "27535be0-93a7-11ee-87b3-13fc18b33cb5",
+      "content": "",
+      "created_at": "2023-12-05 16:47:42.366",
+      "updated_at": "2023-12-05 16:47:42.366"
+    },
+    {
+      "id": "a740a8a0-93aa-11ee-a08e-f111f5f90038",
+      "content": "",
+      "created_at": "2023-12-05 17:12:45.483",
+      "updated_at": "2023-12-05 17:12:45.483"
+    },
+    {
+      "id": "d74375f0-93aa-11ee-9361-89e29506efd1",
+      "content": "",
+      "created_at": "2023-12-05 17:14:06.031",
+      "updated_at": "2023-12-05 17:14:06.031"
+    },
+    {
+      "id": "7972a2f0-9429-11ee-9a8f-81ae767c3ca4",
+      "content": "",
+      "created_at": "2023-12-06 08:20:34.719",
+      "updated_at": "2023-12-06 08:20:34.719"
+    },
+    {
+      "id": "06c55860-9438-11ee-9fb8-7be234483aaa",
+      "content": "",
+      "created_at": "2023-12-06 10:04:44.775",
+      "updated_at": "2023-12-06 10:04:44.775"
+    },
+    {
+      "id": "623345a0-943c-11ee-b2e2-01494bcbd351",
+      "content": "",
+      "created_at": "2023-12-06 10:35:56.155",
+      "updated_at": "2023-12-06 10:35:56.155"
+    },
+    {
+      "id": "1464eb40-9440-11ee-a5d0-7dc6b25c9139",
+      "content": "",
+      "created_at": "2023-12-06 11:02:23.605",
+      "updated_at": "2023-12-06 11:02:23.605"
+    }
+  ]
+}
