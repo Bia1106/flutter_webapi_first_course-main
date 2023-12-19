@@ -31,3 +31,23 @@ showDialogBox(BuildContext context,
             ]);
       });
 }
+
+showDialogBoxErrorMessage(BuildContext context,
+    {String title = 'Atenção!',
+    String content = 'Erro ao realizar operação!'}) {
+  return showDialog(
+      context: context,
+      builder: (context) {
+        return AlertDialog(
+            title: Text(title),
+            content: Text(content),
+            actions: [
+              MaterialButton(
+                onPressed: () => Navigator.pop(context, false),
+                shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(22.0)),
+                child: const Text('Fechar'),
+              )
+            ]);
+      });
+}

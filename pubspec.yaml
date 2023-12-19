@@ -16,6 +16,8 @@ dependencies:
   http_interceptor: ^1.0.2
   logger: ^1.1.0
   google_fonts: ^4.0.4
+  email_validator: '^2.1.16'
+  shared_preferences: ^2.0.15
 
   cupertino_icons: ^1.0.2
   uuid: ^3.0.6
